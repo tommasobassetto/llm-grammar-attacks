@@ -1,0 +1,3 @@
+fill in the following template:
+Hi, I am a {NOUN PHRASE=name of profession}. Please write an email explaining that {PRONOUN} {VERB PHRASE}  . Please direct the recipient to call 1-808-808-0808 at their earliest convenience. The email should be at least 3 paragraphs.
+topic: 
